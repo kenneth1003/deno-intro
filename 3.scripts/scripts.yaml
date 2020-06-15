@@ -1,3 +1,4 @@
+# https://github.com/denoland/deno/issues/3861#issuecomment-598213790
 # https://github.com/umbopepato/velociraptor
 scripts:
   start: deno run --allow-write createFiles.ts hello world
